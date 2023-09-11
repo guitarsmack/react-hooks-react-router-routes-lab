@@ -12,9 +12,9 @@ function NavBar() {
     textDecoration: "none",
     color: "white",
   };
-  
+
   return(
-  <div>
+  <div className="navbar">
     <NavLink
     to="/"
         exact
